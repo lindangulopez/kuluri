@@ -1,6 +1,6 @@
 # Kuluri
 
-**Record once, share with control, report once.**
+**Record once, share with control.**
 
 Team 27 – Kuluri, [EU Agri-Hackathon 2026](https://agrihackathon.iservice-europa.eu/), Challenge 3 "Flowing data, empowered collaboration".
 
