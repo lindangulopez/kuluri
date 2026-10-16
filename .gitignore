@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# Secrets
+.env
+# Hackathon dataset: never commit
+data/raw/
+*.sqlite
+*.db
+*.zip
+*.csv
+!data/mapping_table.csv
